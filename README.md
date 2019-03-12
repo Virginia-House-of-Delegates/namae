@@ -1,3 +1,6 @@
+<strong>Pinner Forked repository to included Clerk and Doctor as titles.</strong>
+
+
 Namae (名前)
 ==========
 Namae is a parser for human names. It recognizes personal names of various
